@@ -1,0 +1,13 @@
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\MarcarConsulta\obj\Debug\MarcarConsulta.csprojAssemblyReference.cache
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\MarcarConsulta\obj\Debug\MarcarConsulta.marcaConsulta.resources
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\MarcarConsulta\obj\Debug\MarcarConsulta.lista.resources
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\MarcarConsulta\obj\Debug\MarcarConsulta.menu.resources
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\MarcarConsulta\obj\Debug\MarcarConsulta.Properties.Resources.resources
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\MarcarConsulta\obj\Debug\MarcarConsulta.csproj.GenerateResource.cache
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\MarcarConsulta\obj\Debug\MarcarConsulta.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\MarcarConsulta\bin\Debug\MarcarConsulta.exe.config
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\MarcarConsulta\bin\Debug\MarcarConsulta.exe
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\MarcarConsulta\bin\Debug\MarcarConsulta.pdb
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\MarcarConsulta\obj\Debug\MarcarConsulta.exe
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\MarcarConsulta\obj\Debug\MarcarConsulta.pdb
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\MarcarConsulta\obj\Debug\MarcarConsulta.formulario.resources
